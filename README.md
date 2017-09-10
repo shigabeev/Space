@@ -5,8 +5,10 @@ The only purpose of it was to train my C++ and Linear algebra skills.
 
 ## Usage
 After you clone the repository go to Terminal and type
+    
     make main
     ./a.out
+    
 You'll get picture of filled triangle
 ![Triangle](https://pp.userapi.com/c836522/v836522039/63aca/0BAKCkntWLo.jpg)
 
